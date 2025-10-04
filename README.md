@@ -6,7 +6,7 @@ BSc in _Mathematical and Computing Sciences for Artificial Intelligence_ at Bocc
 ##  Current Projects
 ### Biological Synapse Modelling
 Exploring the biological plausibility of synaptic models suhc as Benna & Fusi (2016), Gaupner & Brunel (2012) and others.
-### Decoding thouht at Alljoined
+### Decoding thought at Alljoined
 [@Alljoined](https://github.com/Alljoined)
 
 ## Past Projects
