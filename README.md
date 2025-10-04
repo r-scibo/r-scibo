@@ -1,7 +1,7 @@
 # 👋 Hi!
 
 ## Education:
-Bachelor: BSc in _Mathematical and Computing Sciences for Artificial Intelligence_ at Bocconi University in Milan.
+BSc in _Mathematical and Computing Sciences for Artificial Intelligence_ at Bocconi University in Milan.
 
 ##  Current Projects
 ### Biological Synapse Modelling
