@@ -11,5 +11,6 @@ I'm passionate about:
 - Linkedin: [Riccardo Scibetta](www.linkedin.com/in/riccardo-scibetta-064180239)
 
 ## Projects
-- LLM joint steering: [Predicting behaviour composition from steering-vector geometry](https://github.com/edoardopanella/steering-vector-composition-code)
-- A study of the [Pursuit-Evasion](https://github.com/r-scibo/pursuit-simulation) scenario
+- LLM joint steering: [Predicting Behaviour Composition from Steering-Vector Geometry](https://github.com/edoardopanella/steering-vector-composition-code)
+- A practical and mathematical guide for [Denoising EEG data with Wavelet Transform](https://github.com/r-scibo/wavelet-transform-EEG).
+- A study and simulation of the [Pursuit-Evasion](https://github.com/r-scibo/pursuit-simulation) scenario.
