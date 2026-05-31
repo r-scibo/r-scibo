@@ -9,3 +9,6 @@ I'm passionate about:
 
 ## Contact
 - Linkedin: [Riccardo Scibetta](www.linkedin.com/in/riccardo-scibetta-064180239)
+
+## Projects
+- LLM joint steering: [Predicting behaviour composition from steering-vector geometry](https://github.com/edoardopanella/steering-vector-composition-code)
